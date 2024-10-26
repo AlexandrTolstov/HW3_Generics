@@ -7,6 +7,6 @@ public class Main {
         System.out.println(Calculator.divide(3.5f, 5));
         System.out.println(Calculator.subtract(20.8f, 15));
 
-        System.out.println(Calculator.multiply(236, 3.8f));
+        //System.out.println(Calculator.multiply(236, 3.8f));
     }
 }
